@@ -22,6 +22,12 @@ const notes = [
       title: "Hardware vs. Software",
       content:
         "What's the difference between hardware and software? You can hit your hardware with a hammer, but you can only curse at your software."
-    }
+    },
+    {
+        key: 5,
+        title: "Devachi Krupa",
+        content:
+          "||Shree Ganeshay Namah|| \n ||Om Namah Shivay || \n||Jai Shree Ram|| \n||Jai Bajarang Bali Ki Jai|| \n||Jai Malhar|| \n||Om Sai Ram|| \n||Mhasoba Maharaj Ki Jai||          "
+      }
   ];
   export default notes;
